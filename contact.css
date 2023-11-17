@@ -1,0 +1,48 @@
+.navbar {
+    /* background-color: blanchedalmond;*/
+    border-radius: 30px; 
+}
+.navbar ul{
+    overflow:auto;
+}
+.navbar li{
+    float:left;
+    list-style:none;
+    margin:13px 20px;
+    color: black;
+    
+}
+.navbar li a{
+    text-decoration:none;
+    padding:3px 3px;
+    color:black;
+    font-size: 20px;
+}
+.navbar li a:hover{
+    text-decoration:none;
+    padding:3px 3px;
+    color:black;
+    background-color:rgb(188, 123, 24);
+}
+.search{
+    float:right;
+    color:brown;
+    padding:12px 12px;
+    /* height:50px; */
+
+}
+.navbar input{
+    border:2px solid black;
+    border-radius: 14px;
+    padding:7px 9px;
+    width:175px;
+}
+.sec2{
+    height:500px;
+    width:400px;
+
+}
+.form
+{
+    color: rgba(128, 128, 128, 0.658);s
+}

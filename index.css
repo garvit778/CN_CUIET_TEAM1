@@ -1,0 +1,11 @@
+body{
+    background-image: url(images/mainbg.jpg);
+    background-size: cover;
+}
+.navbar ul{
+    list-style-type: none;
+    float: right;
+}
+.navbar ul li{
+    float: left;
+}
