@@ -4,7 +4,7 @@
  border-radius: 30px; 
 }
 .navbar ul{
- overflow:auto;/coz float karne par parent se overflow ho jaega/
+ overflow:auto;
 }
 .navbar li{
  float:left;
@@ -81,5 +81,3 @@ color:blanchedalmond;
          background-color: blanchedalmond;
          color:black;
      }
-
-
